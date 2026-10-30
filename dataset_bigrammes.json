@@ -1,0 +1,65 @@
+{
+  "description": "Corpus synthétique pédagogique de 13 phrases françaises originales sur une sortie culturelle. Aucune provenance externe ni donnée personnelle réelle. Toutes ces phrases servent à apprendre les comptes ; les saisies sont des sondes de fonctionnement, pas un test de performance.",
+  "phrases_apprentissage": [
+    {
+      "id": "P01",
+      "texte": "Le guide prépare une visite du musée pour les enfants."
+    },
+    {
+      "id": "P02",
+      "texte": "Le guide prépare une promenade dans le jardin après le déjeuner."
+    },
+    {
+      "id": "P03",
+      "texte": "Le guide prépare un parcours dans la ville pour les visiteurs."
+    },
+    {
+      "id": "P04",
+      "texte": "La classe prépare une affiche sur les monuments de la ville."
+    },
+    {
+      "id": "P05",
+      "texte": "La classe prépare un carnet pour raconter la visite du musée."
+    },
+    {
+      "id": "P06",
+      "texte": "La classe prépare le départ vers le jardin avec le guide."
+    },
+    {
+      "id": "P07",
+      "texte": "Le musée propose une visite guidée pour découvrir les anciennes machines."
+    },
+    {
+      "id": "P08",
+      "texte": "Le musée propose un atelier pour construire une petite machine."
+    },
+    {
+      "id": "P09",
+      "texte": "Le jardin accueille les enfants après la visite du musée."
+    },
+    {
+      "id": "P10",
+      "texte": "Les enfants observent les machines puis dessinent dans leur carnet."
+    },
+    {
+      "id": "P11",
+      "texte": "Le guide présente le musée puis accompagne les visiteurs au jardin."
+    },
+    {
+      "id": "P12",
+      "texte": "La classe visite le jardin puis retrouve le guide devant le musée."
+    },
+    {
+      "id": "P13",
+      "texte": "Le guide prépare une brochure pour les nouveaux visiteurs du musée."
+    }
+  ],
+  "saisies_a_tester": [
+    "le guide prépare",
+    "la classe prépare",
+    "le musée propose",
+    "le musée",
+    "astronaute",
+    ""
+  ]
+}

@@ -1,0 +1,16 @@
+﻿saisie;contexte;rang;mot_predit;probabilite;probabilite_en_pourcentage;meilleure_prediction;statut
+le guide prépare;prépare;1;une;0.571429;57.14;une;OK
+le guide prépare;prépare;2;un;0.285714;28.57;une;OK
+le guide prépare;prépare;3;le;0.142857;14.29;une;OK
+la classe prépare;prépare;1;une;0.571429;57.14;une;OK
+la classe prépare;prépare;2;un;0.285714;28.57;une;OK
+la classe prépare;prépare;3;le;0.142857;14.29;une;OK
+le musée propose;propose;1;un;0.500000;50.00;un;OK
+le musée propose;propose;2;une;0.500000;50.00;un;OK
+le musée;musée;1;propose;0.500000;50.00;propose;OK
+le musée;musée;2;pour;0.250000;25.00;propose;OK
+le musée;musée;3;puis;0.250000;25.00;propose;OK
+astronaute;astronaute;;;;;;Aucune prédiction : contexte non observé.
+;DEBUT;1;le;0.615385;61.54;le;OK
+;DEBUT;2;la;0.307692;30.77;le;OK
+;DEBUT;3;les;0.076923;7.69;le;OK

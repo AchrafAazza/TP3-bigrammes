@@ -1,0 +1,39 @@
+RESULTATS DU TP - BIGRAMMES (n=2)
+
+Saisie : 'le guide prépare'
+Contexte retenu : prépare
+  une : 0.5714 (57.14%)
+  un : 0.2857 (28.57%)
+  le : 0.1429 (14.29%)
+Meilleure prédiction : une
+
+Saisie : 'la classe prépare'
+Contexte retenu : prépare
+  une : 0.5714 (57.14%)
+  un : 0.2857 (28.57%)
+  le : 0.1429 (14.29%)
+Meilleure prédiction : une
+
+Saisie : 'le musée propose'
+Contexte retenu : propose
+  un : 0.5000 (50.00%)
+  une : 0.5000 (50.00%)
+Meilleure prédiction : un
+
+Saisie : 'le musée'
+Contexte retenu : musée
+  propose : 0.5000 (50.00%)
+  pour : 0.2500 (25.00%)
+  puis : 0.2500 (25.00%)
+Meilleure prédiction : propose
+
+Saisie : 'astronaute'
+Contexte retenu : astronaute
+Aucune prédiction : contexte non observé.
+
+Saisie : ''
+Contexte retenu : DEBUT
+  le : 0.6154 (61.54%)
+  la : 0.3077 (30.77%)
+  les : 0.0769 (7.69%)
+Meilleure prédiction : le
